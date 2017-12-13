@@ -1,5 +1,3 @@
-## [node.js / javaScript] - ECMAScript에서 익명 function의 변화
-
 ##### 오늘 공부한 내용
 
 - ECMAScript6에서 JavaScript의 익명 함수(Function) 의 변화
