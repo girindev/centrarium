@@ -4,7 +4,7 @@
 
 ##### 출처
 
-- https://www.youtube.com/watch?v=9ueu3z2yu-k&list=PL9kzervdzKxy-c7UQgZbnZIr14DCPM87j&index=3 모던 웹을 위한 Node.js 3판 - 3강
+- [모던 웹을 위한 Node.js 3판 - 3강](https://www.youtube.com/watch?v=9ueu3z2yu-k&list=PL9kzervdzKxy-c7UQgZbnZIr14DCPM87j&index=3)
 
 
 
