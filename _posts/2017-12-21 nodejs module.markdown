@@ -3,7 +3,7 @@ layout: post
 title:  "Node.js - 모듈 만들기"
 date:   2017-12-21 16:22:59
 author: 박성훈
-categories: JavaScript
+categories: Node.js
 
 ---
 
